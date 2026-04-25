@@ -29,14 +29,15 @@ The objective is to analyze how different learning strategies affect **policy op
 
 ---
 
-## 📷 Demo
+## 📷 Demo (Comparison)
 
 <p align="center">
-  <img src="cliff_walking_demo.png" width="700"/>
+  <img src="sarsa.png" width="400"/>
+  <img src="Q-Learning.png" width="400"/>
 </p>
 
 <p align="center">
-  Agent navigating the Cliff Walking grid using a learned policy
+  <b>Left:</b> SARSA (Safe Path) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <b>Right:</b> Q-Learning (Optimal but Risky Path)
 </p>
 
 ---
@@ -49,6 +50,7 @@ The objective is to analyze how different learning strategies affect **policy op
 - Highlights the difference between on-policy and off-policy learning  
 
 ---
+
 ## 👤 Author
 **Abhishek Marigeri**
 
